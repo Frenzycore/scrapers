@@ -1,0 +1,33 @@
+{
+  "name": "scrapers",
+  "version": "0.1.0",
+  "description": "List of scrapers, possibly complete, possibly not, just scraping (: (4:29)",
+  "type": "module",
+  "main": "debug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frenzycore/scrapers.git"
+  },
+  "keywords": [
+    "scraper",
+    "javascript",
+    "nodejs",
+    "scrape",
+    "scraping",
+    "esm",
+    "scraping-websites"
+  ],
+  "author": "Ornzora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frenzycore/scrapers/issues"
+  },
+  "homepage": "https://github.com/Frenzycore/scrapers#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "cheerio": "^1.2.0"
+  }
+}
